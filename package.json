@@ -1,0 +1,27 @@
+{
+  "name": "future-components",
+  "version": "0.1.0",
+  "description": "Components to share across future applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mekaseymour/future-components.git"
+  },
+  "author": "Future America",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mekaseymour/future-components/issues"
+  },
+  "homepage": "https://github.com/mekaseymour/future-components#readme",
+  "dependencies": {
+    "react": "^17.0.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1"
+  }
+}
