@@ -1,8 +1,7 @@
 {
   "name": "future-components",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "description": "Components to share across future applications",
-  "main": "src/TodaysDate.js",
   "scripts": {
     "build": "babel src -d build",
     "prepare": "npm run build",
